@@ -1,0 +1,6 @@
+persistence/genreCRUD.class
+endpoint/SearchResource.class
+endpoint/ApplicationConfig.class
+DispGenres.class
+helper/MoviesXML.class
+helper/Movie_Info.class

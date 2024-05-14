@@ -1,0 +1,7 @@
+frontend/Authenticate.class
+helper/MoviesXML.class
+business/Business.class
+business/XMLParser.class
+helper/Movie_Info.class
+helper/UserInfo.class
+frontend/FrontEnd.class

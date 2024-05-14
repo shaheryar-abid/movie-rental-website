@@ -1,0 +1,9 @@
+Login.class
+Persistance/Movie_CRUD.class
+Persistance/Account_CRUD.class
+Helper/Catalogue_Info.class
+Persistance/Catalog_CRUD.class
+Register.class
+Helper/Movie_Info.class
+DispGenres.class
+Helper/UserInfo.class
